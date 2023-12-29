@@ -1,5 +1,5 @@
 # 🔢 Calculator
 
-# 🔗 Live link
+## 🔗 Live link
 
 https://vinodinikeshanikasthuri.github.io/Calculator/
