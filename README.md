@@ -4,7 +4,7 @@
 
 https://vinodinikeshanikasthuri.github.io/Calculator/
 
-# Description
+# ℹ️ Description
 
 #### Welcome to Calculator Application.This is a web application that displays SIMPLE CALCULATIONS(+,-,*,/)
 
