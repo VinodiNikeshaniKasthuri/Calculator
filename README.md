@@ -10,4 +10,4 @@ https://vinodinikeshanikasthuri.github.io/Calculator/
 
 # 🖩 Calculator interface
 
-
+![cal gif](https://github.com/VinodiNikeshaniKasthuri/Calculator/assets/140379202/77401ba5-648e-4e69-b3a5-106e61355432)
