@@ -10,4 +10,4 @@ https://vinodinikeshanikasthuri.github.io/Calculator/
 
 # 🖩 Calculator interface
 
-https://github.com/VinodiNikeshaniKasthuri/Calculator/issues/2#issue-2060784581
+
